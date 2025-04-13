@@ -1,1 +1,2 @@
 # PasswordGenerator
+generates password
